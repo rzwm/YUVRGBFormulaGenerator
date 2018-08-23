@@ -250,7 +250,8 @@ int main()
 	std::cout.setf(std::ios::showpoint);
 	std::fixed(std::cout);
 
-	std::cout << "Welcome to YUV and RGB conversion formula generator!" << std::endl << std::endl;;
+	std::cout << "Welcome to YUV and RGB conversion formula generator!" << std::endl;
+	std::cout << "GithubµØÖ·£ºhttps://github.com/rzwm/YUVRGBFormulaGenerator" << std::endl << std::endl;
 	std::cout << "Which formula do you want to generate?" << std::endl;
 	std::cout << "->0: BT.601" << std::endl;
 	std::cout << "->1: BT.709" << std::endl;
